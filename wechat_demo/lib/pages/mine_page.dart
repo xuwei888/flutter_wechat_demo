@@ -79,7 +79,7 @@ class _MinePageState extends State<MinePage> {
                     Container(
 //                      color: Colors.blue,
                       child: Text(
-                        'Hank',
+                        'Jake',
                         style: TextStyle(
                           fontSize: 20,
                           color: Colors.red,
